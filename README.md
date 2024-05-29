@@ -4,4 +4,4 @@ This is the first HTML Project with The Odin Project.
 - HTML (list, link, foundation, image, working with text [headings, paragraph])
 - GitHub Knowledge (create repository, hosting your repository as a website)
 
-Preview →  https://ryusaem.github.io/odin-recipes/
+Preview → https://ryusaem.github.io/html-odin-recipes/
